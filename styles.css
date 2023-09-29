@@ -1,0 +1,64 @@
+#top-container{
+  background-color: rgb(246, 246, 246);
+  padding-bottom: 30px;
+}
+
+.navbar{
+  margin-bottom: 30px;
+}
+.navbar-brand{
+  margin-left: 20px;
+  margin-right: 63%;
+}
+
+.tagline-container{
+  padding-left: 100px;
+}
+
+.tagline{
+  font-size: 70px;
+  width: 600px;
+  padding-left: 10px;
+  padding-top: 50px;
+}
+
+#main-image{
+  height: 500px;
+  margin-left: 100px;
+  border-radius: 20px;
+}
+
+
+.cart-icon, .book-icon{
+  margin-right: 10px;
+}
+
+.btn-shopnow,.btn-recipe{
+  margin: 4% 1% 5% 3%;
+}
+
+/*FEATURES*/
+
+#features{
+  text-align: center;
+  padding-top: 40px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+
+
+.features-icon{
+  margin: 5px;
+}
+
+
+.features-icon:hover{
+  color: rgb(77, 72, 72);
+}
+
+/*FEEDBACK*/
+
+#feedback{
+  background-color: rgb(147, 143, 168);
+}
