@@ -40,8 +40,9 @@
 /*FEATURES*/
 
 #features{
+  height: 400px;
   text-align: center;
-  padding-top: 40px;
+  padding-top: 100px;
   padding-left: 50px;
   padding-right: 50px;
 }
@@ -60,5 +61,27 @@
 /*FEEDBACK*/
 
 #feedback{
-  background-color: rgb(147, 143, 168);
+  background-color: rgb(121, 114, 153);
+  
+}
+
+#carousel-feedbacks{
+  height: 450px;
+}
+
+
+.carousel-image{
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  position: relative;
+  left: 200px;
+  top: 50px;
+}
+
+.feedback-text{
+  position: relative;
+  bottom: 200px;
+  width: 400px;
+  left: 700px;
 }
